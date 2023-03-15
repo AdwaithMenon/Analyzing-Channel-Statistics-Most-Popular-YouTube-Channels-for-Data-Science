@@ -1,4 +1,4 @@
-## _Analyzing-Channel-Statistics-for-the-Top-Data-Science-YouTube-Channels_
+## _Analyzing Channel Statistics of the Top YouTube Channels for Data Science_
 
 ### **Project Description**
 
