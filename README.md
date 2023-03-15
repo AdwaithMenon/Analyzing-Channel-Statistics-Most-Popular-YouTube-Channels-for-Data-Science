@@ -37,8 +37,8 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 ## **Dashboard**
 
-<img width="953" alt="image" src="https://user-images.githubusercontent.com/70052374/225217643-d09a0f79-4eb5-41ce-aace-9be4bd9f0115.png">
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/70052374/225218558-fdf8d998-e2bd-4ece-bf51-a01e55dfd621.png">
 
 
 
@@ -54,15 +54,7 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 
 
-2) **'Alex the Analyst' had the highest average duration of videos among the Top 10 Channels for Data Science.**
-
-<img width="456" alt="image" src="https://user-images.githubusercontent.com/70052374/225213372-452cefd9-dba1-48d1-b992-46830e095a3d.png">
-
-
-
-
-
-3) **There is a strong correlation between the Number of Likes and Comments on a video.**
+2) **There is a strong correlation between the Number of Likes and Comments on a video.**
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/70052374/225214621-f46189e5-8e46-4bc7-b300-9ff65563ec29.png">
 
@@ -70,7 +62,7 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 
 
-4) **'Tina Huang' had the highest Like to View Ratio among the Top 10 Channels for Data Science.**
+3) **'Tina Huang' had the highest Like to View Ratio among the Top 10 Channels for Data Science.**
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/70052374/225215313-823b03f7-cbd0-4e28-a75c-5aa2131ae872.png">
 
