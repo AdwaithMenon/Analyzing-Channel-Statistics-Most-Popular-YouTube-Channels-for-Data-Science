@@ -69,7 +69,7 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 
 
-3) **'Tina Huang' had the highest Like to View Ratio among the Top 10 Channels for Data Science.**
+3) **'Tina Huang' had the highest 'Like to View Ratio' among the Top 10 Channels for Data Science.**
 
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/70052374/225215313-823b03f7-cbd0-4e28-a75c-5aa2131ae872.png">
