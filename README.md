@@ -44,17 +44,23 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 
 
+
 ## **Findings**
 
 
+
 1) **The total Number of Views across all 10 channels peaked in 2017 and has been decreasing since then (overall).**
+
 
 <img width="670" alt="image" src="https://user-images.githubusercontent.com/70052374/225214223-ef2bf525-6b13-4eac-ac5a-edf13bee58f0.png">
 
 
 
 
+
+
 2) **There is a strong correlation between the Number of Likes and Comments on a video.**
+
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/70052374/225214621-f46189e5-8e46-4bc7-b300-9ff65563ec29.png">
 
@@ -62,7 +68,9 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 
 
+
 3) **'Tina Huang' had the highest Like to View Ratio among the Top 10 Channels for Data Science.**
+
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/70052374/225215313-823b03f7-cbd0-4e28-a75c-5aa2131ae872.png">
 
