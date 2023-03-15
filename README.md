@@ -35,7 +35,7 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 
 
-## **Dashboard**
+## **Tableau Dashboard**
 
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/70052374/225218558-fdf8d998-e2bd-4ece-bf51-a01e55dfd621.png">
