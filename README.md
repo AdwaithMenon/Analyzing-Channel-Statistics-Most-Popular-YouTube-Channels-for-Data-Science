@@ -32,9 +32,15 @@ j) Tina Huang
 EDA was conducted on the extracted data to gain insights into the channels' performance and trends. Various statistical metrics, such as the distribution of subscribers and views, correlations between engagement metrics, and time trends in the data were explored. Through this analysis, patterns and trends, such as which channels had the highest engagement rates and how viewer engagement varied across channels, were identified.To better communicate the insights uncovered, Tableau dashboards were created that provided interactive visualizations of the data.
 
 
+
+
+
 ## **Dashboard**
 
 <img width="953" alt="image" src="https://user-images.githubusercontent.com/70052374/225217643-d09a0f79-4eb5-41ce-aace-9be4bd9f0115.png">
+
+
+
 
 
 
