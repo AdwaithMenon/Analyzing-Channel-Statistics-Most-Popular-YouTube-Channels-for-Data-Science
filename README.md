@@ -2,7 +2,9 @@
 
 ## **Project Description**
 
-The goal of this project was to analyze the channel statistics and trends of the Most Popular YouTube Channels for Data Science through Exploratory Data Analysis (EDA) and Tableau Visualizations. In this project, channel statistics for Top 10 YouTube Channels dedicated to Data Science were extracted using Youtube API and the respective Channel Ids. The attributes extracted include the number of subscribers, views, likes, comments, duration and video titles. The extracted data was cleaned and pre-processed to prepare it for analysis.
+The goal of this project was to analyze the channel statistics and trends of the Most Popular YouTube Channels for Data Science through Exploratory Data Analysis (EDA) and Tableau Visualizations. 
+
+In this project, channel statistics for Top 10 YouTube Channels dedicated to Data Science were extracted using Youtube API and the respective Channel Ids. The attributes extracted include the number of subscribers, views, likes, comments, duration and video titles. The extracted data was cleaned and pre-processed to prepare it for analysis.
 
 The Youtube Channels considered for the analysis include:
 
@@ -32,9 +34,12 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 
 ## **Findings**
 
+
 1) **'Alex the Analyst'** had the highest average duration of videos among the Top 10 Channels for Data Science.
 
 <img width="456" alt="image" src="https://user-images.githubusercontent.com/70052374/225213372-452cefd9-dba1-48d1-b992-46830e095a3d.png">
+
+
 
 
 2) The total Number of Views across all 10 channels peaked in **2017** and has been decreasing since then (overall).
@@ -42,9 +47,13 @@ EDA was conducted on the extracted data to gain insights into the channels' perf
 <img width="670" alt="image" src="https://user-images.githubusercontent.com/70052374/225214223-ef2bf525-6b13-4eac-ac5a-edf13bee58f0.png">
 
 
+
+
 3) There is a strong correlation between the Number of Likes and Comments on a video.
 
 <img width="550" alt="image" src="https://user-images.githubusercontent.com/70052374/225214621-f46189e5-8e46-4bc7-b300-9ff65563ec29.png">
+
+
 
 
 4) **'Tina Huang'** had the highest Like to View Ratio among the Top 10 Channels for Data Science.
